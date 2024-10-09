@@ -1,1 +1,1 @@
-"Some changes in branch_1" 
+"This is a new file" 
